@@ -5,6 +5,8 @@
 #### https://gitee.com/gyhxx/freedtv/raw/master/
 #### 访问不正常的可用以下加速地址:
 #### https://raw.sevencdn.com/gyhxxx/freedtv/main/
+#### https://cdn.jsdelivr.net/gh/waykeyu/freedtv-18x/
 #### 手机版加速地址:
 #### https://raw.sevencdn.com/gyhxxx/freedtv/main/sj/
+####https://cdn.jsdelivr.net/gh/waykeyu/freedtv-18x/sj/
 ## 注意别漏掉最后的斜杠!!!!!!
